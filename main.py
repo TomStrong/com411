@@ -1,3 +1,3 @@
-import visual.plots.simple as simple
+import visual.plots.squares as squares
 
-simple.run()
+squares.run()
