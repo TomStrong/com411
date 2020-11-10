@@ -1,3 +1,3 @@
-import visual.plots.squares as squares
+import visual.plots.path as path
 
-squares.run()
+path.run()
