@@ -1,3 +1,3 @@
-import visual.plots.path as path
+import visual.plots.dict as dict
 
-path.run()
+dict.run()
