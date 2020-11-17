@@ -1,3 +1,3 @@
-import visual.plots.dict as dict
+import visual.subplots.from_text as text
 
-dict.run()
+text.run()
