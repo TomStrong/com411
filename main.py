@@ -1,3 +1,3 @@
-import visual.subplots.from_text as text
+import visual.animations.simple as simple
 
-text.run()
+simple.run()
