@@ -1,3 +1,3 @@
-import visual.animations.sine as sine
+import visual.animations.shift_sine as sine
 
 sine.run()
