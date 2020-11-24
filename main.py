@@ -1,3 +1,3 @@
-import visual.animations.marker as marker
+import visual.animations.sine as sine
 
-marker.run()
+sine.run()
