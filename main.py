@@ -1,3 +1,3 @@
-import visual.animations.simple as simple
+import visual.animations.marker as marker
 
-simple.run()
+marker.run()
