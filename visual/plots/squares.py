@@ -20,3 +20,5 @@ def run():
   medium()
   large()
   plt.show()
+
+run()

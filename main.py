@@ -1,3 +1,4 @@
-import visual.animations.squares as sine
 
-sine.run()
+import oop.human as current
+
+current.run()
